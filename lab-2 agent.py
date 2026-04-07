@@ -1,3 +1,6 @@
+# Name: VENKATA KRISHNA UMA SUPRAJA PUTREVU
+# Registered Email: suprajaputrevu@gmail.com
+
 import os
 from google.adk.agents import LlmAgent
 from google.adk.models import Gemini
